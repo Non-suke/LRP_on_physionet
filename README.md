@@ -1,7 +1,8 @@
 # LRP_on_physionet
 implimation of Layer-wise Relevance Propagation（LRP） on keras model tested on physionet data.
 
-LRP is implimented reffering to https://github.com/ArrasL/LRP_for_LSTM(license:https://github.com/ArrasL/LRP_for_LSTM/blob/master/LICENSE)
+LRP is implimented reffering to https://github.com/ArrasL/LRP_for_LSTM
+(license:https://github.com/ArrasL/LRP_for_LSTM/blob/master/LICENSE)
 
 physionet data is available
 https://physionet.org/content/challenge-2012/1.0.0/
